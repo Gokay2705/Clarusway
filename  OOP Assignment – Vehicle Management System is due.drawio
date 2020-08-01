@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2020-08-01T18:33:32.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="ysjs5wvhTgWA-i3-gXVs" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-01T18:51:02.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="hkntad_34zdAfRqy9Eia" version="13.5.8" type="github">
   <diagram id="bkF3rJx9aQUq1Jas1Zl-" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cEq_9N9YUxk8iIV53Lww-46" value="&lt;h2 style=&quot;box-sizing: border-box ; margin-top: 0px ; margin-bottom: 0.5rem ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-weight: 300 ; line-height: 1.2 ; color: rgb(55 , 58 , 60) ; font-size: 1.875rem ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;OOP Assignment – Vehicle Management System&lt;/h2&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="314" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cEq_9N9YUxk8iIV53Lww-2" value="Car Model" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="324" y="70" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cEq_9N9YUxk8iIV53Lww-3" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cEq_9N9YUxk8iIV53Lww-2">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cEq_9N9YUxk8iIV53Lww-4" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="cEq_9N9YUxk8iIV53Lww-3">
+          <mxGeometry width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cEq_9N9YUxk8iIV53Lww-5" value="&lt;span&gt;- title : String&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="cEq_9N9YUxk8iIV53Lww-3">
+          <mxGeometry x="40" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cEq_9N9YUxk8iIV53Lww-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cEq_9N9YUxk8iIV53Lww-2">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cEq_9N9YUxk8iIV53Lww-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="cEq_9N9YUxk8iIV53Lww-6">
+          <mxGeometry width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cEq_9N9YUxk8iIV53Lww-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="cEq_9N9YUxk8iIV53Lww-6">
+          <mxGeometry x="40" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
